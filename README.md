@@ -1,1 +1,1 @@
-# T-rex-Stage-7-C16
+sounds and game adaptivity
